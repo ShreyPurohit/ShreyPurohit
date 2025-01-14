@@ -66,7 +66,7 @@
 
 <p align="left">
   
-  [![](https://visitcount.itsvg.in/api?id=ShreyPurohit&icon=9&color=1)](https://visitcount.itsvg.in)
+  ![](https://komarev.com/ghpvc/?username=ShreyPurohit&abbreviated=true&color=blueviolet&style=for-the-badge)
 
 </p>
 

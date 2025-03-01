@@ -18,6 +18,7 @@
 - 💬 Ask me about **Web Development (MERN)**
 - 📫 How to reach me **purohitshrey9@gmail.com**
 - ⚡ Fun Fact: **I Make NPM Packages and VS-Code Extensions**
+    - [**Gitingest (VS Code)**](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.gitingest) 
     - [Folder Structure Pro (VS Code)](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.copy-folder-structure)
     - [Ternary ⇄ If-Else Converter (VS Code)](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.code-converter)
     - [Dynamic Form Component (NPM)](https://www.npmjs.com/package/dynamic-form-component)

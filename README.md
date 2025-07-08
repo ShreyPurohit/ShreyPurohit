@@ -2,26 +2,30 @@
 
 <h1 align="center">Hi 👋, I'm Shrey Purohit</h1>
 
-<h3 align="center">
-  Hey there! I'm a web developer from India, rocking both client-side and server-side JavaScript. <br> 
-  I love building cool stuff with React, Node.js, and databases like MySQL and MongoDB. <br> 
-  Right now, I’m diving into Next.js and styling with Tailwind CSS and Bootstrap. <br> 
-  Let’s create something awesome together! 🚀
-</h3>
+<h4 align="center">
+Passionate full-stack web developer from India. <br/>
+I love building cool and functional apps using Next.js, Node.js, and databases like MySQL and MongoDB.  <br /> <br />
+Currently, I’m diving deeper into the world of Cloud Platforms to scale my skills and solutions.  <br />
+Let’s build something awesome together! 🚀😎
+</h4>
 
 ---
-
 
 # 💫 About Me:
 
 - 📝 I write articles on [Medium](https://medium.com/@purohitshrey9)
 - 💬 Ask me about **Web Development (MERN)**
 - 📫 How to reach me **purohitshrey9@gmail.com**
-- ⚡ Fun Fact: **I Make NPM Packages and VS-Code Extensions**
-    - [**Gitingest (VS Code)**](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.gitingest) 
-    - [Folder Structure Pro (VS Code)](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.copy-folder-structure)
-    - [Ternary ⇄ If-Else Converter (VS Code)](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.code-converter)
-    - [Dynamic Form Component (NPM)](https://www.npmjs.com/package/dynamic-form-component)
+- ⚡ Fun Fact: **I Make NPM Packages and Code Editor Extensions**
+
+| Project Name                                   | Type        | Downloads                                                                 |
+|------------------------------------------------|-------------|---------------------------------------------------------------------------|
+| [**Gitingest**](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.gitingest)                         | Extension     | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/iamshreydxv.gitingest?label=downloads&style=flat-square) |
+| [Folder Structure Pro](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.copy-folder-structure) | Extension     | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/iamshreydxv.copy-folder-structure?label=downloads&style=flat-square) |
+| [Dynamic Form Component](https://www.npmjs.com/package/dynamic-form-component)                                 | NPM Package | ![Downloads](https://img.shields.io/npm/dt/dynamic-form-component?label=downloads&style=flat-square) |
+| [Ternary ⇄ If-Else Converter](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.code-converter)  | Extension     | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/iamshreydxv.code-converter?label=downloads&style=flat-square) |
+| More Upcoming ...  |      |  |
+      
 ---
 
 # 💻 Tech Stack:  
@@ -61,7 +65,6 @@
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
   <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
 ### 📜 Languages  
@@ -69,6 +72,11 @@
   <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
@@ -81,6 +89,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyPurohit&show_icons=true&locale=en&layout=compact&theme=react" alt="Shrey Purohit's Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyPurohit&theme=react" alt="ShreyPurohit's github activity graph" />
 </div>
+
+---
+
+# Certifications:
+
+[<img src="https://github.com/user-attachments/assets/56f28c2c-b209-432e-a1ff-3696d609998a" alt="aws-certified-cloud-practitioner" width="200" />](https://www.credly.com/badges/da077cac-244d-4a0f-8773-aa499eb32d36)
+
 
 ---
 

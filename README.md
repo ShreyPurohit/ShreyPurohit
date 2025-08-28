@@ -18,12 +18,13 @@ Let’s build something awesome together! 🚀😎
 - 📫 How to reach me **purohitshrey9@gmail.com**
 - ⚡ Fun Fact: **I Make NPM Packages and Code Editor Extensions**
 
-| Project Name                                   | Type        | Downloads                                                                 |
-|------------------------------------------------|-------------|---------------------------------------------------------------------------|
+| Project Name                                   | Type        | Downloads / Status                                                                 |
+|------------------------------------------------|-------------|------------------------------------------------------------------------------------|
 | [**Gitingest**](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.gitingest)                         | Extension     | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/iamshreydxv.gitingest?label=downloads&style=flat-square) |
 | [Folder Structure Pro](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.copy-folder-structure) | Extension     | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/iamshreydxv.copy-folder-structure?label=downloads&style=flat-square) |
 | [Dynamic Form Component](https://www.npmjs.com/package/dynamic-form-component)                                 | NPM Package | ![Downloads](https://img.shields.io/npm/dt/dynamic-form-component?label=downloads&style=flat-square) |
 | [Ternary ⇄ If-Else Converter](https://marketplace.visualstudio.com/items?itemName=iamshreydxv.code-converter)  | Extension     | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/iamshreydxv.code-converter?label=downloads&style=flat-square) |
+| [Tailwind Color Matcher](https://tailwind-color-matcher-delta.vercel.app/)                                     | Website       | ![Launched](https://img.shields.io/badge/🚀%20Launched-orange?style=flat-square) ![Live](https://img.shields.io/badge/status-live-brightgreen?style=flat-square) |
 | More Upcoming ...  |      |  |
       
 ---
